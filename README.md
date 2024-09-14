@@ -1,2 +1,2 @@
-# pingpong
-This repository contains a project I did as part of my Python Power Workshop. The workshop was simple, and contained basics of Python Programming.
+# PingPong.py
+This repository contains a project I did as part of my Python Power Workshop. The workshop was simple, and contained basics of Python Programming. It contained the basics of python as a programming language, datatypes in python and most essentially data structures in python (dict, list, tuple, set etc). I used turtle for the UI and prepared a simple 2 player paddle game that can be controlled via keyboard inputs.
